@@ -1,0 +1,25 @@
+# Instalar el jdk:
+https://www.oracle.com/co/java/technologies/downloads/
+
+# Abrir inventario-app en Visual e inventarios desde IntelliJ
+
+# Instalar la base de datos (MySQL), descargamos MySQL Installer for Windows
+https://dev.mysql.com/downloads/
+
+# Para este proyecto utilizamos MySQL Server y MySQL Workbench
+
+# Instalar Nodejs
+https://nodejs.org/en/download
+
+# Instalar PostMan para poder relazar peticiones rest a nuestras aplicaciones
+https://www.postman.com/downloads/
+
+# Instalar spring initializr
+https://start.spring.io/
+Instalamos las dependencias Spring Web, Spring Data JPA, MySQL Driver y Lombok
+
+# Abrimos ese proyecto descargado en IntelliJ y corremos el archivo src > main > java > gm.inventarios > InventariosApplication
+Esto nos crea la base de datos y corre el backend
+
+# Correr proyecto Angular en Visual (Frontend):
+ng serve -o
